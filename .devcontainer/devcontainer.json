@@ -3,7 +3,7 @@
     "dockerfile": "Dockerfile"
   },
   "extensions": [
-	"ms-python.python",
-	"emmanuelbeziat.vscode-great-icons"
-]
+    "ms-python.python",
+    "emmanuelbeziat.vscode-great-icons"
+  ]
 }
